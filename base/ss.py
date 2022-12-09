@@ -3,6 +3,6 @@ import pyautogui
 
 while True:
     myScreenshot = pyautogui.screenshot()
-    myScreenshot.save("C:\\Users\\pathr\\Downloads\\abc.png")
+    myScreenshot.save("C:\\Users\\sys\\Downloads\\abc.png")
     sleep(1)
         
